@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in [`https://github.com/madfam-org/solid-hyperobjects/tree/main/spiral-planter`](https://github.com/madfam-org/solid-hyperobjects/tree/main/spiral-planter) — same files, full history absorbed. Open issues and pull requests there.
+
 # Spiral Planter
 
 Generative spiral planter with parametric drainage (OpenSCAD + CadQuery).
